@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229339792687",
+    "project_id": "loklok-app",
+    "storage_bucket": "loklok-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229339792687:android:5479ff2926bb28c1440dda",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_M9t0fAhDZawQhKYk6tipIqAM8iHfMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229339792687:android:9af236b323901483440dda",
+        "android_client_info": {
+          "package_name": "com.example.loklokapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_M9t0fAhDZawQhKYk6tipIqAM8iHfMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
